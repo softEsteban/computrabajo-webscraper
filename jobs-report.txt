@@ -1,0 +1,173 @@
+
+MY COMPUTRABAJO REPORT! 
+
+Date generated: February 26, 2022 
+ 
+Info: 20 jobs found for desarrollador fullstack 
+
+This report is a product of a Python programm to scrap
+Computrabajo web portal. At first it asks users to input
+the job role they want and concatenates it to the route
+filter. 
+__________________________________________________________ 
+ 
+Title: DesarrolladorFullstack.NET5309 
+ Date published: Ayer 
+ Company: 
+PeakU
+3,7
+
+Antioquia,Medellín 
+________________________________________________ 
+Title: DesarrolladorFullstackLaravelVue4274-AlternanciaMedellin 
+ Date published: Hace 2 días 
+ Company: 
+PeakU
+3,7
+
+Antioquia,Envigado 
+________________________________________________ 
+Title: DesarrolladorFullstack 
+ Date published: Hace 3 días 
+ Company: 
+EUREKABPOSAS
+
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: DesarrolladorFullstackLaravel-Junior 
+ Date published: Hace 4 días 
+ Company: 
+GUADALUPECORPORATION
+
+
+-EstadosUnidos 
+________________________________________________ 
+Title: DesarrolladorFullstackPHP5179-Remoto 
+ Date published: Hace 7 días 
+ Company: 
+PeakU
+3,7
+
+ValledelCauca,Cali 
+________________________________________________ 
+Title: Desarrolladorfullstack.Net4182-PresencialBogota 
+ Date published: Hace 7 días 
+ Company: 
+PeakU
+3,7
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: DesarrolladorFullstack.NET+Angular/InvestigaciónyDesarrollo-TrabajoRemoto/Ref.0001S(RD) 
+ Date published: 17 de febrero 
+ Company: 
+BairesDev
+4,6
+
+ValledelCauca,Cali 
+________________________________________________ 
+Title: DesarrolladorFullstack.NET+Angular/InvestigaciónyDesarrollo-TrabajoRemoto/Ref.0001S(RD) 
+ Date published: 17 de febrero 
+ Company: 
+BairesDev
+4,6
+
+Magdalena,SantaMarta 
+________________________________________________ 
+Title: DesarrolladoresFullStack-DesarrolladoresFullStack 
+ Date published: Más de 30 días 
+ Company: 
+UN&ONSOLUCIONESSISTEMASDEINFORMACIONS.A.S
+3,7
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: desarrollador/a-Fullstack 
+ Date published: Hace 6 horas 
+ Company: 
+ZEMSANIACOLOMBIASAS
+4,0
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: DesarrolladorFullstack..net-presencial 
+ Date published: Hace 6 horas 
+ Company: 
+ZEMSANIACOLOMBIASAS
+4,0
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: DesarrolladorFullstack.net-remoto 
+ Date published: Hace 7 horas 
+ Company: 
+ZEMSANIACOLOMBIASAS
+4,0
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: Desarrolladorfullstackmínimo4añosdeexperiencia 
+ Date published: Hace 9 horas 
+ Company: 
+AUDISOFTCONSULTINGS.A.S
+
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: Desarrolladorfullstack-NodeJs/VueJS 
+ Date published: Hace 10 horas 
+ Company: 
+Kubo
+
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: Desarrollador/aFullstack5713-Medellin 
+ Date published: Ayer 
+ Company: 
+PeakU
+3,7
+
+Antioquia,Medellín 
+________________________________________________ 
+Title: DesarrolladorFullstack 
+ Date published: Ayer 
+ Company: 
+Inetum
+4,1
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: DesarrolladorFullstack5309 
+ Date published: Ayer 
+ Company: 
+PeakU
+3,7
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: DesarrolladorFullstack.NETInmediato-TrabajoRemoto 
+ Date published: Ayer 
+ Company: 
+SoftwareEstratégicoS.A.S
+3,9
+
+Antioquia,Sabaneta 
+________________________________________________ 
+Title: DesarrolladorJava-experienciade3añosfullstack 
+ Date published: Hace 2 días 
+ Company: 
+Eficacia
+4,4
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
+Title: DesarrolladorJava-experienciade3añosfullstack 
+ Date published: Hace 2 días 
+ Company: 
+Eficacia
+4,4
+
+Bogotá,D.C.,Bogotá,D.C. 
+________________________________________________ 
