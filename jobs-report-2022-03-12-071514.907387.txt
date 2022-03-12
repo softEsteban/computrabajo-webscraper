@@ -1,0 +1,188 @@
+
+MY COMPUTRABAJO REPORT! 
+
+Date generated: March 12, 2022 
+ 
+Info: 20 jobs found for mysql 
+
+This report is a product of a Python programm to scrap
+Computrabajo website. At first it asks users to input
+the job role they want and concatenates it to the route
+filter. 
+__________________________________________________________ 
+ 
+Title: Analista Desarrollador en MySQL y SQL - Avanzado 
+ Date published: Hace 16 horas 
+ Company: 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín 
+ Description: Hola, bienvenido a nuestro proceso de selección virtual! Nos comprometemos con la promoción de la salud pública, así... 
+________________________________________________ 
+Title: Desarrollador Web - Experto en PHP, Mysql y Laravel 
+ Date published: Hace 3 días 
+ Company: 
+Importanteempresadelsector
+
+Santander,Bucaramanga 
+ Description: - Analizar y solucionarproblemas y dar soporte de aplicaciones de la Compañía. - Calcular tiempos para nuevos... 
+________________________________________________ 
+Title: Desarrollador de Software 4 años de experiencia - BD Mysql, Framework, Netcore, Angular 
+ Date published: Hace 17 horas 
+ Company: 
+OPERACIONESTECNOLÓGICASYCOMERCIALESPORACCIONESSIM(OPTECOM)
+4,4
+
+Santander,Bucaramanga 
+ Description: Importante empresa de telecomunicaciones solicita Ingeniero de sistemas, electrónica, telecomunicaciones y carreras... 
+________________________________________________ 
+Title: Analista Desarrollador en MySQL y SQL - Avanzado 
+ Date published: Ayer 
+ Company: 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín 
+ Description: Hola, bienvenido a nuestro proceso de selección virtual! Nos comprometemos con la promoción de la salud pública, así... 
+________________________________________________ 
+Title: Ingeniero desarrollador de software mínimo 4 años de experiencia con proyectos - Manejo de BD Mysql, Framework, Netcore, Angular 
+ Date published: Hace 2 días 
+ Company: 
+OPERACIONESTECNOLÓGICASYCOMERCIALESPORACCIONESSIM(OPTECOM)
+4,4
+
+Bogotá,D.C.,Bogotá,D.C. 
+ Description: Importante empresa de telecomunicaciones a nivel nacional solicita Ingeniero de sistemas, electrónica,... 
+________________________________________________ 
+Title: Analista Desarrollador en MySQL y SQL - Avanzado 
+ Date published: Hace 4 días 
+ Company: 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín 
+ Description: Hola, bienvenido a nuestro proceso de selección virtual! Nos comprometemos con la promoción de la salud pública, así... 
+________________________________________________ 
+Title: desarrollador/a con conocimientos en C#, SQL server,  c#, php, MySql y ASP.net 
+ Date published: Hace 4 días 
+ Company: 
+SistemasCitisaludS.A.S
+
+
+Bogotá,D.C.,Bogotá,D.C. 
+ Description: Desarrollo de módulos web para un sistema de información especializado en salud, creando integración en parte... 
+________________________________________________ 
+Title: Ingeniero programador/desarrollador - ajax, php, javascript, html, sql y mysql 
+ Date published: Hace 5 días 
+ Company: 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C. 
+ Description: Importante compañía Financiera solicita de manera inmediata Desarrollador - Ingeniero en Sistemas, Telecomunicaciones... 
+________________________________________________ 
+Title: Ingeniero programador/desarrollador - ajax, php, javascript, html, sql y mysql 
+ Date published: Hace 5 días 
+ Company: 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C. 
+ Description: Importante compañía Financiera solicita de manera inmediata Desarrollador - Ingeniero en Sistemas, Telecomunicaciones... 
+________________________________________________ 
+Title: Desarrollador/a senior PHP LARAVEL y MYSQL 
+ Date published: Hace 7 días 
+ Company: 
+OLiveTreeMarketingSAS
+
+
+Antioquia,Medellín 
+ Description: Buscamos un miembro de nuestro equipo de desarrollo que quiera evolucionar profesionalmente con nuestra compañía. Se... 
+________________________________________________ 
+Title: Analista Desarrollador en MySQL y SQL - Avanzado 
+ Date published: 24 de febrero 
+ Company: 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín 
+ Description: Hola, bienvenido a nuestro proceso de selección virtual! Nos comprometemos con la promoción de la salud pública, así... 
+________________________________________________ 
+Title: Analista Desarrollador en MySQL y SQL - Avanzado 
+ Date published: 22 de febrero 
+ Company: 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín 
+ Description: Hola, bienvenido a nuestro proceso de selección virtual! Nos comprometemos con la promoción de la salud pública, así... 
+________________________________________________ 
+Title: desarrollador web  remoto - html css javascript php mysql 
+ Date published: 16 de febrero 
+ Company: 
+.OKPRESSImpresionOnline
+
+
+Bogotá,D.C.,Bogotá,D.C. 
+ Description: se busca desarrollador web para completar un proyecto sencillo en HTML-CSS--JavaScript-PHP-MySQL funcionalidades... 
+________________________________________________ 
+Title: Desarrollador/a Web full stack - PHP, Javascript y MySQL como mínimo 
+ Date published: Más de 30 días 
+ Company: 
+DeconduxSAS
+
+
+Bogotá,D.C.,Bogotá,D.C. 
+ Description: Requerimientos: Decondux busca talento desarrollador full stack, líder de desarrollo,con experiencia con PHP,... 
+________________________________________________ 
+Title: Analista de Base de Datos - SQL (Mysql, Oracle, Posgresql) 
+ Date published: Más de 30 días 
+ Company: 
+Importanteempresadelsector
+
+Antioquia,Medellín 
+ Description: Empresa requiere para su equipo de trabajo profesional en Ingeniería de Sistemas para el cargo de Analista de Base de... 
+________________________________________________ 
+Title: Programador en Delphi, PHP y MySQL 
+ Date published: Más de 30 días 
+ Company: 
+GrupoInvemotoSAS
+
+
+ValledelCauca,Cali 
+ Description: Se requiere programador con conocimientos en Delphi, PHP y MySQL,integración de hardware a través de puertos COM, PLCs... 
+________________________________________________ 
+Title: Django Python Full Stack Developer 
+ Date published: Hace 6 horas 
+ Company: 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C. 
+ Description: Location: Remote WFH - All Latin American Candidates welcome to apply  Overview: Our client is a B2B SaaS Company... 
+________________________________________________ 
+Title: Ingeniero de desarrollo - Conocimiento  bases de datos Oracle 
+ Date published: Hace 8 horas 
+ Company: 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C. 
+ Description: Importante empresa BPO del sector financiero, requiere ingeniero desistemas con enfoque en desarrollo de software, con... 
+________________________________________________ 
+Title: Web Master 
+ Date published: Hace 9 horas 
+ Company: 
+C.I.IndustriasSuárezS.A.S
+4,3
+
+Antioquia,Sabaneta 
+ Description: Buscamos Técnico y/o Tecnólogo en Sistemas y/o Programación para el cargo de Web Máster para el equipo de E.Commerce... 
+________________________________________________ 
+Title: Desarrollador Backend - Bogotá Urgente !!! 
+ Date published: Hace 9 horas 
+ Company: 
+JOBANDTALENTCOSAS
+3,9
+
+Bogotá,D.C.,Bogotá,D.C. 
+ Description: En Jobandtalent empleamos a más de 15.000 profesionales en toda Colombia y ofrecemos oportunidades de empleo de forma... 
+________________________________________________ 

@@ -2,15 +2,7 @@ from bs4 import BeautifulSoup
 from datetime import date, datetime
 import requests
 
-#User input
-role_user = str(input("Which job you are you looking for? > "))
-
-#Getting to the site. Filter included
-html_text = requests.get('https://www.computrabajo.com.co/trabajo-de-'+role_user).text
-soup = BeautifulSoup(html_text, 'lxml')
-posts = soup.find_all('article', class_='box_border hover dFlex vm_fx mbB cp bClick mB_neg_m mb0_m')
-
-#Initial vars and repository
+# Initial vars and repository
 counter = 0
 jobs= []
 now = str(datetime.now()).replace(' ', '-')
@@ -18,9 +10,16 @@ now2 = now.replace('-', '')
 now3 = now.replace('.', '')
 now4 = now.replace(':', '')
 today = date.today()
-today_format= today.strftime("%B %d, %Y")
+today_format = today.strftime("%B %d, %Y")
 
-#Looping through posts  
+
+# User input
+role_user = str(input("Which job you are you looking for? > "))
+# Getting to the site. Filter included
+html_text = requests.get('https://www.computrabajo.com.co/trabajo-de-'+role_user).text
+soup = BeautifulSoup(html_text, 'lxml')
+posts = soup.find_all('article', class_='box_border hover dFlex vm_fx mbB cp bClick mB_neg_m mb0_m')
+# Looping through posts 
 for p in posts:
     job_pub_time= p.find("p", class_="fs13 fc_aux").text
     job_title = p.find("h1", class_="fs18 fwB").text
@@ -37,8 +36,10 @@ for p in posts:
     print("ARE THERE DETAILS?   " + str(job_description))
     print("________________________________________________")
 
-#Generating a report in .txt file
-f = open(f"jobs-report-{now4}", "x")
+
+
+# Generating a report in .txt file
+f = open(f"jobs-report-{now4}.txt", "x")
 f.write(f"""
 MY COMPUTRABAJO REPORT! \n
 Date generated: {today_format} \n 
@@ -53,5 +54,3 @@ for job in jobs:
     f.write(job + "\n") 
     f.write("________________________________________________ \n")
 f.close()
-
-
