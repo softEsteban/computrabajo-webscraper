@@ -1,0 +1,957 @@
+
+    MY COMPUTRABAJO REPORT! 
+
+    Date generated: March 12, 2022 
+ 
+    Info: 161 jobs found for python 
+
+    This report is a product of a Python programm to scrap
+    Computrabajo website. At first it asks users to input
+    the job role they want and concatenates it to the route
+    filter. 
+    __________________________________________________________ 
+ 
+Python Technical Interviewer - Remote Work / Ref. 1048E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Gran Convocatoria Desarrolladores Python / Empresas de desarrollo y multinacionales Hace 2 días 
+GESTHIONORGANIZACIONALSAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Python - Ssr /  Sr Home Office Hace 3 días 
+wOutsourcing
+4,0
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+REQ# 96598 // Analista de aplicaciones senior - Python, JavaScript Hace 3 días 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador Back end de Python 4811 Hace 3 días 
+PeakU
+3,7
+
+ValledelCauca,Cali
+________________________________________________ 
+Desarrollador Back end de Python 4811 Hace 3 días 
+PeakU
+3,7
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Back end de Python 4811 Hace 3 días 
+PeakU
+3,7
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador software junior/ Analista de aplicaciones/ experiencia en manejo de Python/ Bogota Hace 4 días 
+AJOVERDARNELSAS
+4,1
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+desarrollador/a - Python Hace 4 días 
+AdeccoColombiaS.A.
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Python / Django - Remoto Hace 4 días 
+Importanteempresadelsector
+
+Antioquia,Medellín
+________________________________________________ 
+Científico de datos, Conocimiento y modelamiento avanzado en lenguaje de programación Python. Hace 4 días 
+MANPOWERPROFESSIONALLTDA
+4,4
+
+Bolívar,CartagenadeIndias
+________________________________________________ 
+Analista  de desarrollo y programación - Lenguaje Python y Javascript Hace 5 días 
+MANPOWERPROFESSIONALLTDA
+4,4
+
+Antioquia,Medellín
+________________________________________________ 
+REQ# 77570 // Analista de visualización de datos - Experiencia en Python, SQL, Power BI, Excel Hace 5 días 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador/a Software - .Net C#, Python Hace 5 días 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de sistemas - Analista de datos / SQL / Python Hace 5 días 
+MANPOWERPROFESSIONALLTDA
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Backend Python 4328 - Remoto inglés requerido Hace 5 días 
+PeakU
+3,7
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador Backend Python 4328 - Remoto inglés requerido Hace 5 días 
+PeakU
+3,7
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Backend Python 4328 - Remoto inglés requerido Hace 5 días 
+PeakU
+3,7
+
+ValledelCauca,Cali
+________________________________________________ 
+Desarrollador Backend Python 4328 - Remoto inglés requerido Hace 5 días 
+PeakU
+3,7
+
+Santander,Bucaramanga
+________________________________________________ 
+Full Stack Python Developer Hace 5 días 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Backend Python 4328 - Remoto inglés requerido Hace 5 días 
+PeakU
+3,7
+
+Atlántico,Barranquilla
+________________________________________________ 
+desarrollador/a - Desarrollador IoT, Python C++ Hace 5 días 
+StartupWalletia
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Python Intermedio - Trabajo remoto Hace 6 días 
+SoftwareEstratégicoS.A.S
+3,9
+
+Antioquia,Sabaneta
+________________________________________________ 
+Desarrollador Python / Django - Remoto Hace 6 días 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Python / Django - Remoto Hace 7 días 
+Importanteempresadelsector
+
+Atlántico,Barranquilla
+________________________________________________ 
+Ingeniero de Investigación y Desarrollo - Conocimientos en Python, Matching Learning, Front 4 de marzo 
+WaveCommCorporationS.A
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Auditor de sistemas - Python, Oracle, Acces, Exel avanzado y SQL 28 de febrero 
+JOBANDTALENTCOSAS
+3,9
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista Desarrollador en Python Avanzado 27 de febrero 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Analista Desarrollador en Python Avanzado 24 de febrero 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Analista Desarrollador en Python Avanzado 22 de febrero 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+desarrollador/a - python/PHP 22 de febrero 
+MANPOWERPROFESSIONALLTDA
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+desarrollador/a Macros - python/PHP 22 de febrero 
+MANPOWERPROFESSIONALLTDA
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Spark y python (Big Data) - Remoto 20 de febrero 
+AdeccoColombiaS.A.
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador/a junior - Python 18 de febrero 
+COMMITYSAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador python - Analista desarrollador 16 de febrero 
+ClinicalLaboratoryTechnologyLTDA
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista de datos financiero Bilingüe - Python, BI 10 de febrero 
+MANPOWERPROFESSIONALLTDA
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollar aplicaciones en Python - Experiencia mínimo de 2 años Más de 30 días 
+Importanteempresadelsector
+
+Antioquia,Medellín
+________________________________________________ 
+Ingeniero de desarrollo en python con conocimiento en ERP ODOO Más de 30 días 
+ClinicalLaboratoryTechnologyLTDA
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista Desarrollador en Python Avanzado Más de 30 días 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Analista Desarrollador en Python Avanzado Más de 30 días 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Remote Python Developer - English Más de 30 días 
+TuringEnterprisesInc.
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Python Más de 30 días 
+RedAmbientalSASESP
+
+
+Bolívar,CartagenadeIndias
+________________________________________________ 
+analista de redes y telecomunicaciones Hace 1 hora 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista de infraestructura técnologo, estudiantes y/o profesionales en telecomunicaciones Hace 1 hora 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+analista de redes y telecomunicaciones Hace 3 horas 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de Datos - Bogotá D.C. Hace 3 horas 
+CUSTOMEROPERATIONSUCCESS.A.S.
+3,8
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+React Native Mobile Software Developer Hace 3 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+analista de redes y telecomunicaciones Asterisk vicidial telefonia voip Hace 3 horas 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista Desarrollador 2 Senior - Contratatación Inmediata Hace 7 horas 
+GRUPOMOKCOLOMBIASAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador backend Hace 9 horas 
+EFTalentoHumano
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Phyton. Hace 9 horas 
+BitsAmericas
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de Desarrollo - con experiencia de 1 año minimo Hace 9 horas 
+REDSISS.A.S.
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Profesional de Planeación y Analítica de Datos Hace 10 horas 
+REDSISS.A.S.
+4,3
+
+Atlántico,Barranquilla
+________________________________________________ 
+Ingeniero de Desarrollo de Analítica Hace 10 horas 
+FUNDACIÓNCARDIOVASCULARDECOLOMBIA.
+4,6
+
+Santander,Floridablanca
+________________________________________________ 
+Administrador de versiones y cambios de Software - Certificación en Itil o Scrum Hace 17 horas 
+JOBANDTALENTCOSAS
+3,9
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Profesional en cambios IT - Certificación en Itil o Scrum Hace 17 horas 
+JOBANDTALENTCOSAS
+3,9
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Software Engineer (DevOps) Hace 20 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+consultor/a ti - Ingenieros sistemas o electronicos Hace 21 horas 
+ProductividadEmpresarialSAS
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero/a de sistemas o electronicos - Bogota Hace 21 horas 
+ProductividadEmpresarialSAS
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista de Datos / ingeniero de datos - Bogotá D.C. Hace 21 horas 
+CUSTOMEROPERATIONSUCCESS.A.S.
+3,8
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Service Engineer (DevOps) Hace 22 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador De Software - conocimientos en PHP, PostgreSQL, Javascript, Hace 23 horas 
+Importanteempresadelsector
+
+Meta,Villavicencio
+________________________________________________ 
+Ingeniero de Desarrollo - Java Hace 23 horas 
+TRACKERDECOLOMBIASAS
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Profesional De Análisis - Inteligencia De Negocios Ayer 
+SUMMARTEMPORALESSAS
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+QA Automation Analyst Ayer 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero/a - de Sistemas Programador Ayer 
+AGENCIADEADUANASOBELIXLOGISTICASA.NIVEL2
+
+
+Bolívar,CartagenadeIndias
+________________________________________________ 
+Ingeniero data warehouse/BI Ayer 
+AMANIENTERPRISESCOS.A.S
+
+
+-Colombia
+________________________________________________ 
+Cloud Engineer Ayer 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+SOC Data Analyst– English B1/B2 Ayer 
+TeleperformanceColombia
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Soc analyst – English A2/B1 Ayer 
+TeleperformanceColombia
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Soc Automation Engineer – English B1/B2 Ayer 
+TeleperformanceColombia
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+csirt Forensic Sr analyst  English level b1+/b2 Ayer 
+TeleperformanceColombia
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero/a de sistemas o electronicos - Bogota Ayer 
+ProductividadEmpresarialSAS
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Business Intelligence Ayer 
+MILLIONANDUP
+
+
+Antioquia,Medellín
+________________________________________________ 
+Business Intelligence Ayer 
+MILLIONANDUP
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Programador o desarrollador WEB manejo CRM - Profesional graduado Ayer 
+OcuparTemporalesS.A.
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Programador o desarrollador WEB manejo CRM - Profesional graduado Ayer 
+OcuparTemporalesS.A.
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingniero de sistemas - Experiencia en proceso de abastecimiento Ayer 
+SolucionesInmediatas
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+analista - de Bi DATA Ayer 
+VIRTUALSOFTSERVICIOS&SOFTWARES.A.S
+
+
+Antioquia,Medellín
+________________________________________________ 
+Analista Desarrollador Ayer 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador Java Sr Remoto - experiencia en creación de APIs Ayer 
+ALGARTECH
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista Desarrollador en MySQL y SQL - Avanzado Ayer 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Ingeniero con experiencia en lenguaje de programación - Desarrollo de proyectos de software Ayer 
+OPERACIONESTECNOLÓGICASYCOMERCIALESPORACCIONESSIM(OPTECOM)
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Gestor de inteligencia de negocios Ayer 
+SUMMARTEMPORALESSAS
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Análisis e inteligencia de datos - Bogotá Ayer 
+MISIONTEMPORAL
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Backend Engineer Ayer 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Especialista integración de datos - Sector asegurador Ayer 
+DescubrirSolucionesOrganizacionalesSAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Senior Full Stack Engineer Ayer 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+desarrollador/a Senior N2 QA Control de Calidad - Quality Assurance Software Ayer 
+MONOLEGALS.A.S
+
+
+Boyacá,Tunja
+________________________________________________ 
+Desarrollor de software con 8 años de experiencia Ayer 
+SUPERANDOYEDUCANDOSAS
+
+
+Cundinamarca,Girardot
+________________________________________________ 
+Desarrollador Backend Odoo. Ayer 
+BitsAmericas
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista programador - Tecnólogo en ingeniería Ayer 
+OcuparTemporalesS.A.
+4,2
+
+ValledelCauca,Cali
+________________________________________________ 
+Científico de Datos - Presencial Ayer 
+ZEMSANIACOLOMBIASAS
+4,0
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero/a Desarrollador Web Ayer 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Especialista Business Intelligence - (BI) Ayer 
+GABRICAS.A.S.
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Consultor Analítico - Data Science Ayer 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero Postventa II Ayer 
+EgcColombiaSAS
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Sénior de Aplicaciones Ayer 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Analista Desarrollador Ayer 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Analista Desarrollador en MySQL y SQL - Avanzado Ayer 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Analista de sistemas - desarrolador full stack Ayer 
+SUMMARTEMPORALESSAS
+4,2
+
+Risaralda,Pereira
+________________________________________________ 
+Senior full stack developer Ayer 
+Importanteempresadelsector
+
+Antioquia,Medellín
+________________________________________________ 
+Ingeniero especialista en Microsoft 365 Ayer 
+BPOGlobalServicesS.A.S
+3,2
+
+Antioquia,Medellín
+________________________________________________ 
+Programador/a Ayer 
+TeleperformanceColombia
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de innovacion y desarrollo Ayer 
+MISIONTEMPORAL
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Business Analytics  (Power BI, Tableau) Ayer 
+EXCELCREDITSAS
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista Contact Center (Campañas) Ayer 
+COMERCIALCARDS.A.S
+
+
+Antioquia,Medellín
+________________________________________________ 
+Jr. Software Support Specialist Ayer 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Talent Data Analytics - Remote Work / Ref. 1028E Ayer 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Practicante de Mercadeo- Copacabana Ayer 
+INTEGRALESCOLOMBIAS.A.S
+4,2
+
+Antioquia,Copacabana
+________________________________________________ 
+Ingeniero de Inteligencia de Negocios - Medellín o Bogotá Ayer 
+ImportanteEmpresadelSectorTI
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Odoo Developer - Remote Work / Ref. 0943E Ayer 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Odoo Developer - Remote Work / Ref. 0943E Ayer 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Power BI - Remote Work / Ref. 0221E Ayer 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Power BI - Remote Work / Ref. 0221E Ayer 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analytics Engineering Manager - Remote Work / Ref. 0078E Ayer 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Analytics Engineering Manager - Remote Work / Ref. 0078E Ayer 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Performance Engineer Hace 2 días 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista auditoria informática Hace 2 días 
+ASERTEMPOCOLOMBIAS.A
+3,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Data Analytics Developer - Remote Work / Ref. 1028E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Data Analytics Developer - Remote Work / Ref. 1028E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+ETL Developer - Remote Work / Ref. 0339E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+ETL Developer - Remote Work / Ref. 0339E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Security DevOps Engineer Hace 2 días 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+SQL Developer - Remote Work / Ref. 0401E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+SQL Developer - Remote Work / Ref. 0401E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Big Data Senior - Remote Work / Ref. 0099E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Big Data Senior - Remote Work / Ref. 0099E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Big Data Senior - Remote Work / Ref. 0099E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Software Development Engineer in Test - Remote Work / Ref. 0686E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Software Development Engineer in Test - Remote Work / Ref. 0686E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Software Development Engineer in Test - Remote Work / Ref. 0686E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Site Reliability Engineer - Remote Work / Ref. 0966E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Site Reliability Engineer - Remote Work / Ref. 0966E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Site Reliability Engineer - Remote Work / Ref. 0966E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Business and Data Science Analyst - Remote Work / Ref. 0960E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Business and Data Science Analyst - Remote Work / Ref. 0960E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Business and Data Science Analyst - Remote Work / Ref. 0960E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Data Science / Data Engineer - Remote Work / Ref. 0960E Hace 2 días 
+BairesDev
+4,6
+
+NortedeSantander,Cúcuta
+________________________________________________ 
+Data Science / Data Engineer - Remote Work / Ref. 0960E Hace 2 días 
+BairesDev
+4,6
+
+Bolívar,CartagenadeIndias
+________________________________________________ 
+Data Science / Data Engineer - Remote Work / Ref. 0960E Hace 2 días 
+BairesDev
+4,6
+
+ValledelCauca,Cali
+________________________________________________ 
+Data Science / Data Engineer - Remote Work / Ref. 0960E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Data Science / Data Engineer - Remote Work / Ref. 0960E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Data Science / Data Engineer - Remote Work / Ref. 0960E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Lider Técnico de datos y Desarrollo - Remoto Hace 2 días 
+AdeccoColombiaS.A.
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Backend Developer Hace 2 días 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista de negocios - Bogotá Hace 2 días 
+MISIONTEMPORAL
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Fullstack Hace 2 días 
+EDUCAREDITORESSA
+4,1
+
+Cundinamarca,Cota
+________________________________________________ 
+Ingeniero de sistemas, Analista de Desarrollo BPM .Net - Mz Hace 2 días 
+Importanteempresadelsector
+
+Caldas,Manizales
+________________________________________________ 
+Ingeniero de sistemas, Analista de Desarrollo BPM .Net - pto Hace 2 días 
+Importanteempresadelsector
+
+Nariño,Pasto
+________________________________________________ 
+Ingeniero de sistemas, Analista de Desarrollo BPM .Net - bqlla Hace 2 días 
+Importanteempresadelsector
+
+Atlántico,Barranquilla
+________________________________________________ 
+Ingeniero de Desarrollo Jr Hace 2 días 
+LatinoBIConsultingSAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Practicante Universitario Gerencia Analítica Hace 2 días 
+SEGUROSCOMERCIALESBOLIVARS.A.
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista BI Junior Hace 2 días 
+RENTEK
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Middle Móvil Hace 2 días 
+CORPORACIONUNIVERSITARIAAMERICANA
+4,4
+
+Atlántico,Barranquilla
+________________________________________________ 
+analista integral financiero - (no asesores comerciales) Hace 2 días 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Programador de bases de datos (Sr Developer RPA) Hace 2 días 
+TeleperformanceColombia
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrolllador de Software Hace 2 días 
+MONTACARGASA.M.&M.S.A.S
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Ingeniero Aseguramiento de Ingresos - ingeniero de sistemas Hace 2 días 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Big Data Hace 3 días 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Webmaster - Conocimiento en Back Hace 3 días 
+Importanteempresadelsectordeseguridad
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 

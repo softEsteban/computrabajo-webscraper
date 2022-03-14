@@ -1,0 +1,1186 @@
+
+    MY COMPUTRABAJO REPORT! 
+
+    Date generated: March 12, 2022 
+ 
+    Info: 201 jobs found for javascript 
+
+    This report is a product of a Python programm to scrap
+    Computrabajo website. At first it asks users to input
+    the job role they want and concatenates it to the route
+    filter. 
+    __________________________________________________________ 
+ 
+Desarrollador Web - Programador javascript react sql Hace 5 días 
+ALIANZASYPROCESOS
+
+
+Santander,Bucaramanga
+________________________________________________ 
+Ingeniero de automatización bilingue - Experiencia en HTML, JavaScript y CSS Hace 5 días 
+SutherlandGlobalServicesSGS
+4,5
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero programador/desarrollador - ajax, php, javascript, html, sql y mysql Hace 6 días 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero programador/desarrollador - ajax, php, javascript, html, sql y mysql Hace 6 días 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador/a Front End - Angular,Vu.js,React,Javascript,Typescript Hace 6 días 
+GUADALUPECORPORATION
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Junior .NET - Javascript, C# 25 de febrero 
+WORLDOFFICECOLOMBIAS.A.S
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero Desarrollador Senior en Bogotá - Bpm Hace 2 horas 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de Sistemas Desarrollador Junior - Bogotá Urgente Hace 2 horas 
+SaleslandColombia
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador y/o programador junior - Experiencia Java Hace 3 horas 
+AgenciadeempleodeColsubsidio
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador / Programador php senior - técnologo, estudiantes y/o profesionales Hace 4 horas 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador - Home office a nivel nacional Hace 5 horas 
+LOGISTICALABORALS.A.S.
+4,1
+
+Atlántico,Barranquilla
+________________________________________________ 
+Wordpress Developer Hace 6 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Diseñador UI/UX Hace 6 horas 
+EasyClocking
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Principal Ruby Platform Engineer Hace 7 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero desarrollador/a Web PHP Moodle - Teletrabajo Trabajo remoto Hace 7 horas 
+Importanteempresadelsectordeeducaciónvirtual
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+programador/a - Cali Hace 7 horas 
+XplodNewYork
+
+
+ValledelCauca,Cali
+________________________________________________ 
+Front end React JS y React Native Hace 7 horas 
+EasyClocking
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Digital Marketing Specialist - Marketplaces experience required Hace 7 horas 
+QuanticaBPO
+3,8
+
+Atlántico,Barranquilla
+________________________________________________ 
+Desarrollador o programador en Flutter Hace 7 horas 
+Importanteempresadelsector
+
+ValledelCauca,Cali
+________________________________________________ 
+Diseñador grafico - Freelance Hace 8 horas 
+ARIANPAYS.A.S
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Full Stack Developer Hace 8 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Front-end Developer / Desarrollador(a) Front-end Hace 8 horas 
+CompuTrabajo
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador de Software - Inglés B2/C1 Hace 8 horas 
+LamassuMediaSAS
+
+
+Risaralda,Pereira
+________________________________________________ 
+Desarrollador backend Hace 8 horas 
+EFTalentoHumano
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+desarrollador/a react native Hace 8 horas 
+Importanteempresadelsector
+
+Cauca,Popayán
+________________________________________________ 
+Ingeniero de Soporte Servicio al Cliente - Barranquilla y Bogotá Hace 8 horas 
+POTENCIALIZAMOSSAS
+
+
+Atlántico,Barranquilla
+________________________________________________ 
+Desarrollador Full Stack con experiencia - Trabajo remoto Hace 8 horas 
+BVentures
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero ó Tecnólogo en Programación - Con Experiencia en desarrollo de entornos Web Hace 8 horas 
+ProyectosMillennium
+
+
+Antioquia,Medellín
+________________________________________________ 
+Ingeniero de Desarrollo. NET - Trabajo totalmente Virtual Hace 8 horas 
+ImportantecompañíadelsectorFinanciero
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Phyton. Hace 8 horas 
+BitsAmericas
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de Desarrollo - con experiencia de 1 año minimo Hace 9 horas 
+REDSISS.A.S.
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Diseñador Maquetador Front End Trabajo Remoto - Medio Tiempo Hace 9 horas 
+EstrategiaSeguraS.A.S
+
+
+Antioquia,Medellín
+________________________________________________ 
+docente - Informática y tecnología Hace 9 horas 
+COLEGIOCEMODEN
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista Especializado - Maqueteador Web Frontend Hace 9 horas 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Digital Marketing Specialist - Marketplaces experience required Hace 9 horas 
+QuanticaBPO
+3,8
+
+Atlántico,Barranquilla
+________________________________________________ 
+Tecnologos desarrolladores de Software o sistemas - Trabajo totalmente Virtual Hace 9 horas 
+ImportantecompañíadelsectorFinanciero
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista Aplicaciones Digital Hace 9 horas 
+ARUSS.A.
+4,4
+
+Antioquia,Medellín
+________________________________________________ 
+analista programador Hace 9 horas 
+EventicLtda
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero en sistemas - programador, Desarrollador Hace 16 horas 
+SUMMARTEMPORALESSAS
+4,2
+
+ValledelCauca,Cali
+________________________________________________ 
+Desarrollador de Software Hace 17 horas 
+MisionEmpresarialS.A
+4,1
+
+Antioquia,Medellín
+________________________________________________ 
+Full Stack Python Developer Hace 18 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Diseñador Digital Hace 18 horas 
+OcuparTemporalesS.A.
+4,2
+
+ValledelCauca,Cali
+________________________________________________ 
+Analista de sistemas Hace 18 horas 
+AdeccoColombiaS.A.
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Programador PHP - 2 años de experiencia Hace 19 horas 
+TUTALENTOSAS
+3,8
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Django Python Full Stack Developer Hace 19 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Software Engineer (DevOps) Hace 20 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Frontend Engineer Hace 21 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+desarrollador/a Android Hace 21 horas 
+Oktana
+
+
+ValledelCauca,Cali
+________________________________________________ 
+Desarrollador FrontEnd Hace 21 horas 
+COBRANDOS.A.S
+4,0
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador de software - experiencia 2 años Hace 21 horas 
+OcuparTemporalesS.A.
+4,2
+
+Antioquia,Medellín
+________________________________________________ 
+Service Engineer (DevOps) Hace 21 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de sistemas recién egresado  en Bogotá - Full Stack Hace 21 horas 
+MISIONTEMPORAL
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de desarrollo - Conocimiento  bases de datos Oracle Hace 21 horas 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Android Developer Hace 22 horas 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero Digital/ Dllo de Soluciones Hace 23 horas 
+COMFAMA
+4,7
+
+Antioquia,Medellín
+________________________________________________ 
+Ingeniero de desarrollo - Conocimiento  bases de datos Oracle Hace 23 horas 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Back End Hace 23 horas 
+TSTI
+3,8
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de Desarrollo - Java Hace 23 horas 
+TRACKERDECOLOMBIASAS
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista de soporte - ingeniero de sistemas Ayer 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de Sistemas - Automatizador de Pruebas Web - Móvil Ayer 
+JKGESTIONHUMANA
+
+
+ValledelCauca,Cali
+________________________________________________ 
+Desarrollador Front end - Bogota Ayer 
+ProductividadEmpresarialSAS
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador de Software Ayer 
+ACTIVOSSAS
+4,2
+
+Huila,Neiva
+________________________________________________ 
+Sr. UX Developer Ayer 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero desarrollador de proyectos de tecnología - Bogotá/ Urgente Ayer 
+SGSCOLOMBIAS.A.S.
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista de Desarrollo Java, ingeniero de sistemas, telecomunicaciones o afines Ayer 
+INFOMEDIASERVICES.A.
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Java Web Medellín - poca experiencia Ayer 
+EmpresadelsectorTICsenMedellín
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador Web - Java + Front Ayer 
+EmpresadelsectorTICsenMedellín
+
+Antioquia,Medellín
+________________________________________________ 
+Ingeniero de Desarrollo Ayer 
+QNTS.A.S
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de Sistemas, informático o afines - 5 años Ayer 
+Importanteempresadelsector
+
+Antioquia,Medellín
+________________________________________________ 
+desarrollador/a - Software Ayer 
+SEGURIDADATLASLTDA.
+4,4
+
+ValledelCauca,Cali
+________________________________________________ 
+Desarrollador/a JAVA Ayer 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Programador / Ingeniero Sistemas Ayer 
+ORGANIZACIONMARKETINGMIXSASIIS.A.S
+4,1
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Semi Senior - Desarrollador Ayer 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador de software Ayer 
+Importanteempresadelsectorservicios
+
+Antioquia,Medellín
+________________________________________________ 
+Analista Calidad de Software Ayer 
+GrupoMP
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Programador Sistemas - Bucaramanga Ayer 
+Offimedicass.a.
+4,4
+
+Santander,Bucaramanga
+________________________________________________ 
+Desarrollador Frontend React 4511 - Presencial Bogotá Ayer 
+PeakU
+3,7
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de Sistemas de Desarrollo Ayer 
+COMERCIALIZADORASANTANDERS.A.S
+4,5
+
+Risaralda,Pereira
+________________________________________________ 
+Developer Full stack Semi-senior Ayer 
+TeleperformanceColombia
+4,2
+
+Antioquia,Medellín
+________________________________________________ 
+desarrollador/a - Desarrollador Web Ayer 
+AHMEDTECHSAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Full Stack Web Developer - Advanced english Ayer 
+Importanteempresadelsector
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador Frontend React 4511 - Presencial Bogotá Ayer 
+PeakU
+3,7
+
+Tolima,Ibagué
+________________________________________________ 
+Analista de Desarrollo Ayer 
+FinesaS.A
+4,5
+
+ValledelCauca,Cali
+________________________________________________ 
+Ingeniero Desarrollador - Software Ayer 
+SATLOCKSAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Fullstack Anguar / PHP. Ayer 
+BitsAmericas
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de Desarrollo - Cali Ayer 
+Cosmitet
+
+
+ValledelCauca,Cali
+________________________________________________ 
+Desarrollador Front End - (Angular) Ayer 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Lider Tecnico - Trabajo Remoto Ayer 
+SoftwareEstratégicoS.A.S
+3,9
+
+Antioquia,Sabaneta
+________________________________________________ 
+Analista de desarrollo - con experiencia Ayer 
+GLOBUSSISTEMASSAS
+
+
+Risaralda,Pereira
+________________________________________________ 
+Desarrollador Frontend React 4511 - Presencial Bogotá Ayer 
+PeakU
+3,7
+
+Boyacá,Tunja
+________________________________________________ 
+Desarrollador Full Stack .Net Senior Ayer 
+AMIS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollor de software con 8 años de experiencia Ayer 
+SUPERANDOYEDUCANDOSAS
+
+
+Cundinamarca,Girardot
+________________________________________________ 
+Técnico Desarrollador - Ibagué Tolima (Contratación inmediata) Ayer 
+Importanteempresadelsector
+
+Tolima,Ibagué
+________________________________________________ 
+Ingeniero de Desarrollo - Con experiencia Ayer 
+SITIS-SolucionesInformaticasIntegralesenSaludSAS
+
+
+Cauca,Popayán
+________________________________________________ 
+Desarrollador - Frond End Ayer 
+ZEMSANIACOLOMBIASAS
+4,0
+
+Risaralda,Pereira
+________________________________________________ 
+Desarrollador Backend Odoo. Ayer 
+BitsAmericas
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de desarrollo Junior Ayer 
+InSoftLtda.
+
+
+Caldas,Manizales
+________________________________________________ 
+Desarrollador/a Junior - Experiencia 3 años Ayer 
+RecaudoBogotáSAS
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Junior - Tecnólogo en Sistemas Ayer 
+GENTEUTILS.A.
+4,4
+
+Santander,Bucaramanga
+________________________________________________ 
+Ingeniero de desarrollo Ayer 
+InSoftLtda.
+
+
+Caldas,Manizales
+________________________________________________ 
+Técnico de Desarrollo JAVA Ayer 
+Inetum
+4,1
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+desarrollador web Ayer 
+AMBIENTESOLUCIONESS.A.S.
+
+
+Antioquia,Medellín
+________________________________________________ 
+Arquitecto de Software - Con Especialización y/o Maestría y T.P. Ayer 
+ImportanteempresadelsectordeTecnologia
+
+-Colombia
+________________________________________________ 
+Diseñador Web - Nivel Medio Ayer 
+PERFILESYSOLUCIONESLOGISTICASSAS
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Programador Java - FullSatack Ayer 
+FislaTecnologiaSAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista de Desarrollo en Fullstack Ayer 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Analista de sistemas - desarrolador full stack Ayer 
+SUMMARTEMPORALESSAS
+4,2
+
+Risaralda,Pereira
+________________________________________________ 
+Senior full stack developer Ayer 
+Importanteempresadelsector
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador Fullstack Base de Datos Ayer 
+MANPOWERPROFESSIONALLTDA
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Lider desarrollador - con experiencia testing Ayer 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista de Desarrollo en Fullstack Ayer 
+EmtelcoCX&BPO
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador/a  PHP Ayer 
+KONECTA
+4,2
+
+Risaralda,Pereira
+________________________________________________ 
+Desarrollador/a  PHP Ayer 
+KONECTA
+4,2
+
+Córdoba,Montería
+________________________________________________ 
+Desarrollador/a  PHP Ayer 
+KONECTA
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador/a  PHP Ayer 
+KONECTA
+4,2
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador/a  PHP Ayer 
+KONECTA
+4,2
+
+ValledelCauca,Cali
+________________________________________________ 
+Ingeniero de Sistemas con experiencia en java, java ee, pgp y sript - desarrollador web Ayer 
+PUNTOEMPLEOS.A.
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Junior - Siberia Ayer 
+SumimasSAS
+
+
+Cundinamarca,Siberia
+________________________________________________ 
+Senior Software Engineer Ayer 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Tecnólogo en Desarrollo de Software Ayer 
+Galaxy
+4,0
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador Python / Empresas de desarrollo y multinacionales Ayer 
+GESTHIONORGANIZACIONALSAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Senior Frontend - experiencia con React Ayer 
+GESTHIONORGANIZACIONALSAS
+
+
+Antioquia,Medellín
+________________________________________________ 
+Jr. Software Support Specialist Ayer 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador JAVA EE Ayer 
+Neexcorporation
+
+
+ValledelCauca,Cali
+________________________________________________ 
+analista programador Ayer 
+MegasoftLtda
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Senior o SemiSenior Frontend Developer - Presencial y Remoto Ayer 
+VAMOSTEC
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador .NET 5308 Ayer 
+PeakU
+3,7
+
+Antioquia,Medellín
+________________________________________________ 
+Ruby on Rails Developer Ayer 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Oracle ATG Engineer - Remote Work / Ref. 0187E Ayer 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Oracle ATG Engineer - Remote Work / Ref. 0187E Ayer 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Next.js Developer - Remote Work / Ref. 0697E Ayer 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Next.js Developer - Remote Work / Ref. 0697E Ayer 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero desarrollador de proyectos de tecnología - Bogotá/ Urgente Ayer 
+SGSCOLOMBIAS.A.S.
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador de software Ayer 
+Importanteempresadelsector
+
+Antioquia,Medellín
+________________________________________________ 
+Jefe de aplicaciones y bases de datos Hace 2 días 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Angular Developer Hace 2 días 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+AngularJS Developer - Remote Work / Ref. 0106E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+AngularJS Developer - Remote Work / Ref. 0106E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador de software Hace 2 días 
+Importanteempresadelsector
+
+Antioquia,Medellín
+________________________________________________ 
+.NET Core Developer - Remote Work / Ref. 1001E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+.NET Core Developer - Remote Work / Ref. 1001E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+.NET Core Developer - Remote Work / Ref. 1001E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Vue.js Developer - Remote Work / Ref. 0255E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Vue.js Developer - Remote Work / Ref. 0255E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Vue.js Developer - Remote Work / Ref. 0255E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Software Development Engineer in Test - Remote Work / Ref. 0686E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Software Development Engineer in Test - Remote Work / Ref. 0686E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Software Development Engineer in Test - Remote Work / Ref. 0686E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Front End Developer Hace 2 días 
+Workling
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Frontend Tech Lead - Remote Work / Ref. 0054E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Frontend Tech Lead - Remote Work / Ref. 0054E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Frontend Tech Lead - Remote Work / Ref. 0054E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Frontend Architect - Remote Work / Ref. 0054E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Frontend Architect - Remote Work / Ref. 0054E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Frontend Architect - Remote Work / Ref. 0054E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Frontend Developer - Remote Work / Ref. 0054E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Frontend Developer - Remote Work / Ref. 0054E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Frontend Developer - Remote Work / Ref. 0054E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero de sistema desarrollador software Hace 2 días 
+SUSERVICIOTEMPORALS.A
+4,1
+
+Atlántico,Barranquilla
+________________________________________________ 
+UX/UI Designer Manager - Remote Work / Ref. 0066E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+UX/UI Designer Manager - Remote Work / Ref. 0066E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+UX/UI Designer Manager - Remote Work / Ref. 0066E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Angular Tech Lead - Remote Work / Ref. 0615E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Angular Tech Lead - Remote Work / Ref. 0615E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Angular Tech Lead - Remote Work / Ref. 0615E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Angular Architect - Remote Work / Ref. 0615E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Angular Architect - Remote Work / Ref. 0615E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Angular Architect - Remote Work / Ref. 0615E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Angular Developer - Remote Work / Ref. 0615E Hace 2 días 
+BairesDev
+4,6
+
+Atlántico,Barranquilla
+________________________________________________ 
+Angular Developer - Remote Work / Ref. 0615E Hace 2 días 
+BairesDev
+4,6
+
+Antioquia,Medellín
+________________________________________________ 
+Angular Developer - Remote Work / Ref. 0615E Hace 2 días 
+BairesDev
+4,6
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Frontend React Native - Remoto Hace 2 días 
+TALYCAPGLOBAL
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Coordinador de Desarrollos Digitales Hace 2 días 
+EDUCAREDITORESSA
+4,1
+
+Cundinamarca,Cota
+________________________________________________ 
+Programador Oracle APEX Hace 2 días 
+PROYECCIÓNLABORALS.A.S.
+4,2
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista Programador Hace 2 días 
+Importanteempresadelsector
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Ingeniero Desarrollador WEB - Full Stack en Bucaramanga Hace 2 días 
+ORGANIZACIÓNSERVICIOSYASESORIASS.A.S.
+4,2
+
+Santander,Bucaramanga
+________________________________________________ 
+Desarrollador Fullstack Java - Angular Remoto Hace 2 días 
+AdeccoColombiaS.A.
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrolladores de software 4708 - Presencial Bogotá Hace 2 días 
+PeakU
+3,7
+
+Atlántico,Barranquilla
+________________________________________________ 
+Ingeniero de sistemas, Analista de Desarrollo BPM .Net - Mz Hace 2 días 
+Importanteempresadelsector
+
+Caldas,Manizales
+________________________________________________ 
+Ingeniero de sistemas, Analista de Desarrollo BPM .Net - pto Hace 2 días 
+Importanteempresadelsector
+
+Nariño,Pasto
+________________________________________________ 
+Ingeniero de sistemas, Analista de Desarrollo BPM .Net - bqlla Hace 2 días 
+Importanteempresadelsector
+
+Atlántico,Barranquilla
+________________________________________________ 
+Desarrollador Web Hace 2 días 
+GENTEUTILS.A.
+4,4
+
+Santander,Bucaramanga
+________________________________________________ 
+Desarrollador PHP Hace 2 días 
+2BeCommerce
+
+
+Antioquia,Medellín
+________________________________________________ 
+Ingeniero de Desarrollo Programador - Ingeniero de Sistemas. Hace 2 días 
+BERHLANDECOLOMBIASAS
+4,2
+
+Quindio,LaTebaida
+________________________________________________ 
+Web Master - Profesional Hace 2 días 
+SUMMARTEMPORALESSAS
+4,2
+
+ValledelCauca,Cali
+________________________________________________ 
+Programador web Hace 2 días 
+ImportantesistemainformativodeSantander
+
+Santander,Bucaramanga
+________________________________________________ 
+Desarrollador Frontend Hace 2 días 
+CORPORACIONUNIVERSITARIAAMERICANA
+4,4
+
+Atlántico,Barranquilla
+________________________________________________ 
+Desarrollador Middle Móvil Hace 2 días 
+CORPORACIONUNIVERSITARIAAMERICANA
+4,4
+
+Atlántico,Barranquilla
+________________________________________________ 
+Gran Convocatoria Desarrolladores Python / Empresas de desarrollo y multinacionales Hace 2 días 
+GESTHIONORGANIZACIONALSAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Full Stack Hace 2 días 
+BPTINTEGRATION
+
+
+Antioquia,Medellín
+________________________________________________ 
+desarrollador/a - Full stack, Back end y Front end Hace 2 días 
+CUSTOMEROPERATIONSUCCESS.A.S.
+3,8
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrolllador de Software Hace 2 días 
+MONTACARGASA.M.&M.S.A.S
+4,3
+
+Antioquia,Medellín
+________________________________________________ 
+Especialista Administrador Servicios Web - HIbrido Hace 2 días 
+Eficacia
+4,4
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Java o .NET - Experiencia en Microservicios Hace 3 días 
+AdeccoColombiaS.A.
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Java Hace 4 días 
+AdeccoColombiaS.A.
+4,3
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Analista de Soluciones y TI - Medellín Hace 4 días 
+INVAMERS.A.S
+4,2
+
+Antioquia,Medellín
+________________________________________________ 
+Consultor Junior o Senior - Consultor en TI Hace 5 días 
+ESOFTCOLOMBIA,SAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+desarrollador/a 2 de marzo 
+INVERSIONESENSOLUCIONESDETIDECODIGOABIERTOSAS
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador Angular y NodeJs - Backend 27 de febrero 
+Beta
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
+Desarrollador React Native - Junior 23 de febrero 
+Fridom
+
+
+Antioquia,Medellín
+________________________________________________ 
+Desarrollador. Net Junior - Ingles Intermedoio Más de 30 días 
+PEVAARS.A.S.
+
+
+Bogotá,D.C.,Bogotá,D.C.
+________________________________________________ 
